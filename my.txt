@@ -1,1 +1,3 @@
 this is my first text for my submoduleone. Now i am commiting to the submoduleone.
+now we will update the indivisual repo and get these changes to the project with
+submodules.
