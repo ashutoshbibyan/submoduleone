@@ -3,4 +3,4 @@ now we will update the indivisual repo and get these changes to the project with
 submodules.
 
 
-this is the dev branch.
+this is the dev branch. now   i am goin to change the submodule from the main module.
